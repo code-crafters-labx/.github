@@ -32,7 +32,6 @@ We specialize in backend platforms, API integrations, business dashboards, data 
 - SQL Server optimization, reporting and data modeling
 - Angular applications with clean, scalable UI architecture
 - Power BI dashboards and operational analytics
-- Salesforce integrations using Composite Graph API
 - Docker-ready deployments, security scanning and modernization workflows
 
 ---
