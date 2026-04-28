@@ -72,9 +72,7 @@ We specialize in backend platforms, API integrations, business dashboards, data 
     </td>
     <td width="50%">
       <h3>Enterprise Integrations</h3>
-      <p>Reliable integrations with external systems, Salesforce APIs, batch workflows, error handling and structured logging.</p>
       <p>
-        <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" />
         <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
         <img src="https://img.shields.io/badge/Microservices-0F172A?style=flat-square&logo=kubernetes&logoColor=white" alt="Microservices" />
       </p>
