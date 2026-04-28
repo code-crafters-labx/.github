@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="../assets/code-crafters-lab-banner.svg" alt="CodeCrafters Lab - Building scalable enterprise solutions" width="100%" />
+﻿<p align="center">
+  <img src="../assets/ig_07ebb490e0147f5f0169f0c00acdfc8195b85f7f0d419724ad.png" alt="CodeCrafters Lab - Building scalable enterprise solutions" width="100%" />
 </p>
 
 <div align="center">
